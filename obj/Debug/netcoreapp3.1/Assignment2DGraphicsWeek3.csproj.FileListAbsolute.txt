@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\bin\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.exe
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\bin\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.deps.json
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\bin\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.runtimeconfig.json
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\bin\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.runtimeconfig.dev.json
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\bin\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.dll
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\bin\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.pdb
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.Form1.resources
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.AssemblyInfo.cs
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.dll
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.pdb
+C:\Users\PC\source\repos\Assignment2DGraphicsWeek3\obj\Debug\netcoreapp3.1\Assignment2DGraphicsWeek3.genruntimeconfig.cache
